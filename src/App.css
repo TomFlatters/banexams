@@ -17,7 +17,7 @@
 }
 
 .clickText {
-    font-family: 'Patua One', cursive;
+    font-family: 'Patua One';
     font-size: 10vh;
     padding: 1vh;
     border-bottom: 0.1vh solid black;    
@@ -30,7 +30,7 @@
     background: none;
     height: 12vh;
     text-decoration: none;
-    font-family: 'Patua One', cursive;
+    font-family: 'Patua One';
     font-size: 5vh;
     padding: 1vh;
     margin: 2vh;
