@@ -26,6 +26,7 @@
 }
 
 .button {
+    width: 100%;
     background: none;
     height: 12vh;
     text-decoration: none;
@@ -46,7 +47,8 @@
 .button:hover {
     background: black;
     color: white;
-    width: 100vw;
+    width: 90vw;
+    border: 0.3vw solid white;
     height: 12vh;
 }
 
