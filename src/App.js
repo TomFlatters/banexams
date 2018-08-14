@@ -55,7 +55,9 @@ class App extends Component {
         <div className="clicks"><h2>{this.state.clicks} peoples think exams should be banned.</h2></div>
         <div className="clicks"><h3>1 million peoples = exams are banned<br/><br/>
                                     You click 100 times = good luck 4 u</h3></div>
-
+                                    <a class="twitter-share-button"
+  href="https://twitter.com/intent/tweet?text=ToGetHEr%20We%20CAn%20baN%20eXaMS!%0Abanexams.co.uk">
+ShARe YoUr CliCKs</a>
 
       
 
